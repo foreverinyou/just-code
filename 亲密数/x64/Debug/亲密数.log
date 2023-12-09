@@ -1,0 +1,3 @@
+﻿  intimate.c
+F:\code\always-coding\亲密数\intimate.c(17,9): warning C4101: “j”: 未引用的局部变量
+  亲密数.vcxproj -> F:\code\always-coding\亲密数\x64\Debug\亲密数.exe
