@@ -1,0 +1,5 @@
+﻿  amnum.c
+F:\code\always-coding\armstrong number\amnum.c(18,6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\code\always-coding\armstrong number\amnum.c(23,12): warning C4101: “y”: 未引用的局部变量
+F:\code\always-coding\armstrong number\amnum.c(23,10): warning C4101: “x”: 未引用的局部变量
+  armstrong number.vcxproj -> F:\code\always-coding\armstrong number\x64\Debug\armstrong number.exe
