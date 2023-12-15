@@ -1,0 +1,4 @@
+﻿  decode.c
+F:\code\always-coding\解码器\decode.c(8,2): warning C4013: “gets”未定义；假设外部返回 int
+F:\code\always-coding\解码器\decode.c(7,7): warning C4101: “lat”: 未引用的局部变量
+  解码器.vcxproj -> F:\code\always-coding\解码器\x64\Debug\解码器.exe
